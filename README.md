@@ -1,6 +1,6 @@
 # x64 ELF code injector
 
-A simple ELF code injector for x64. Uses segment padding to infect a file and will run the code on binary startup.
+A simple ELF code injector for x64. Uses segment padding to infect a file and will run the code on binary startup. For educational purposes only!
 
 ## Getting Started
 
